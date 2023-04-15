@@ -25,8 +25,8 @@ An ansible role to install and configure elasticsearch  setup.
 # $`\textcolor{voilet}{\text{Sample Inventory}}`$ 
 An inventory for elasticsearch setup should look like this:-
 ```shell
-* node1 ansible_host=3.18.109.204 ansible_user=ubuntu ansible_ssh_private_key_file=/home/sunil/Downloads/Elastic.pem
-* node2 ansible_host=3.16.147.112 ansible_user=ubuntu ansible_ssh_private_key_file=/home/sunil/Downloads/Elastic.pem
+* node1 ansible_host=3.18.109.204 ansible_user=ubuntu ansible_ssh_private_key_file=/home/bhanu/Downloads/Elastic.pem
+* node2 ansible_host=3.16.147.112 ansible_user=ubuntu ansible_ssh_private_key_file=/home/bhanu/Downloads/Elastic.pem
 ```
 # $`\textcolor{voilet}{\text{Sample Playbook}}`$
 ### $`\textcolor{voilet}{\text{Here is an example playbook:-}}`$ 
